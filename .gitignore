@@ -1,0 +1,15 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore all .DS_Store files (common on macOS)
+.DS_Store
+
+# Ignore a specific file
+config.json
+
+# Ignore all files in a logs folder
+logs/
+
